@@ -1,0 +1,14 @@
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\bin\Debug\netcoreapp3.1\KanyeWestPractice.exe
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\bin\Debug\netcoreapp3.1\KanyeWestPractice.deps.json
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\bin\Debug\netcoreapp3.1\KanyeWestPractice.runtimeconfig.json
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\bin\Debug\netcoreapp3.1\KanyeWestPractice.runtimeconfig.dev.json
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\bin\Debug\netcoreapp3.1\KanyeWestPractice.dll
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\bin\Debug\netcoreapp3.1\KanyeWestPractice.pdb
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\obj\Debug\netcoreapp3.1\KanyeWestPractice.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\obj\Debug\netcoreapp3.1\KanyeWestPractice.AssemblyInfo.cs
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\obj\Debug\netcoreapp3.1\KanyeWestPractice.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\obj\Debug\netcoreapp3.1\KanyeWestPractice.csproj.CopyComplete
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\obj\Debug\netcoreapp3.1\KanyeWestPractice.dll
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\obj\Debug\netcoreapp3.1\KanyeWestPractice.pdb
+C:\Users\matth\Desktop\repos2\KanyeWest\KanyeWestPractice\obj\Debug\netcoreapp3.1\KanyeWestPractice.genruntimeconfig.cache
